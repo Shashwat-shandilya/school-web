@@ -1,0 +1,14 @@
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+h1{
+    color: orange;
+}
+
+h2{
+    color: crimson;
+}
